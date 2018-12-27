@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": null,
+        "manage_roles" : false,
+        "role_name" : "admin",
+        "role_arn" : "arn:aws:iam::783706569371:role/admin",
+        "project_name": "zappa",
+        "runtime": "python3.6",
+        "s3_bucket": "zappahellocricardez",
+    }
+}
